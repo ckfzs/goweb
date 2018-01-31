@@ -1,2 +1,2 @@
-# myblog
-a blog written by golang
+# config
+a configuration parser written by go
